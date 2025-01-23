@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Paracetamol",
+    "describe": "/Pain reliever and fever reducer./ *Safe for most users.* **Dosage:** 500mg. */Do not exceed the recommended dose./",
+    "images": "https://example.com/images/paracetamol.jpg",
+    "videos": "https://example.com/videos/paracetamol.mp4"
+  },
+  {
+    "name": "Ibuprofen",
+    "describe": "/Reduces inflammation and pain./ *Used for headaches and muscle pain.* **Caution:** Stomach irritation possible. */Consult a doctor if needed./",
+    "images": "https://example.com/images/ibuprofen.jpg",
+    "videos": "https://example.com/videos/ibuprofen.mp4"
+  }
+]
