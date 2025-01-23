@@ -3,26 +3,26 @@
     "name": "Paracetamol",
     "info": [
         {
-            "title": "/**h1Abdominal aortic aneurysm (AAA) screening**/h1",
-            "dis1": "/nAbdominal aortic aneurysm (AAA) screening is a test to check if there's a swelling in your aorta, which is the main blood vessel that carries blood from the heart to the tummy (abdomen)./n",
-            "dist2": "/sAAA screening is offered to all men over the age of 64. Anyone assigned male at birth who is over the age of 64 can have it./s",
+            "title": "/h1  ** Abdominal aortic aneurysm (AAA) screening ** /h1",
+            "dis1": "/n  Abdominal aortic aneurysm (AAA) screening is a test to check if there's a swelling in your aorta, which is the main blood vessel that carries blood from the heart to the tummy (abdomen). /n",
+            "dist2": "/s  AAA screening is offered to all men over the age of 64. Anyone assigned male at birth who is over the age of 64 can have it. /s",
             "img": ""
           },
         {
-          "title": "/**Why abdominal aortic aneurysm (AAA) screening is done**/h1",
-          "dis1": "/nAbdominal aortic aneurysm (AAA) screening is done to check if there are any swellings (aneurysms) in the main blood vessel in your tummy (abdomen), called the aorta. The aorta runs from your heart down to your abdomen./n",
+          "title": "/h1  ** Why abdominal aortic aneurysm (AAA) screening is done **  /h1",
+          "dis1": "/n  Abdominal aortic aneurysm (AAA) screening is done to check if there are any swellings (aneurysms) in the main blood vessel in your tummy (abdomen), called the aorta. The aorta runs from your heart down to your abdomen. /n",
           "dist2": "/s/s",
           "img": "https://assets.nhs.uk/nhsuk-cms/images/Abdominal_Aortic_Aneurysm_3_copy.width-1534.jpg"
         },
         {
-          "title": "/**Who abdominal aortic aneurysm (AAA) screening is for**/h1",
-          "dis1": "/n*All men living in England are invited for abdominal aortic aneurysm (AAA) screening the year they turn 65.**AAA screening is recommended for anyone assigned male at birth. This includes men, trans women and non-binary people.**You'll have the AAA screening test once, unless an aneurysm is found.**Men are invited for AAA screening because they're more likely to have an abdominal aortic aneurysm.**AAA screening is not usually offered to people with a lower risk of getting an abdominal aortic aneurysm, including:*/n",
-          "dist2": "/men under 65/*/women/*  */people who have already had treatment for an abdominal aortic aneurysm/*",
+          "title": "/h1  ** Who abdominal aortic aneurysm (AAA) screening is for**/h1",
+          "dis1": "/n*  All men living in England are invited for abdominal aortic aneurysm (AAA) screening the year they turn 65.**AAA screening is recommended for anyone assigned male at birth. This includes men, trans women and non-binary people.**You'll have the AAA screening test once, unless an aneurysm is found.**Men are invited for AAA screening because they're more likely to have an abdominal aortic aneurysm.**AAA screening is not usually offered to people with a lower risk of getting an abdominal aortic aneurysm, including:* /n",
+          "dist2": "/ men under 65 / * / women / *  * / people who have already had treatment for an abdominal aortic aneurysm / *",
           "img": ""
         },
         {
-          "title": "/**If you have a higher risk of abdominal aortic aneurysm**/h1",
-          "dis1": "/nIf you're not eligible for AAA screening but you think you're at higher risk of getting an abdominal aortic aneurysm, talk to a GP about the possibility of getting a scan./n",
+          "title": "/h1  ** If you have a higher risk of abdominal aortic aneurysm**/h1",
+          "dis1": "/n  If you're not eligible for AAA screening but you think you're at higher risk of getting an abdominal aortic aneurysm, talk to a GP about the possibility of getting a scan./n",
           "dist2": "/s/s",
           "img": ""
         },
