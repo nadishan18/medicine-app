@@ -1,18 +1,18 @@
 [
   {
     "name": "Paracetamol",
-    "describe": "/Pain reliever and fever reducer./ *Safe for most users.* **Dosage:** 500mg. */Do not exceed the recommended dose./ /s Check packaging for details. /s /l Learn more here /l",
+    "describe": "/{Pain reliever and fever reducer.}/ *{Safe for most users.}* **{Dosage:}** 500mg. */{Do not exceed the recommended dose.}*/ /s {Check packaging for details.} /s /l {Learn more here} /l",
     "info": [
       {
-        "title": "/h1  ** Abdominal aortic aneurysm (AAA) screening ** /h1",
-        "dis1": "/n Abdominal aortic aneurysm (AAA) screening is a test to check if there's a swelling in your aorta, which is the main blood vessel that carries blood from the heart to the tummy (abdomen). /n",
-        "dist2": "/s AAA screening is offered to all men over the age of 64. Anyone assigned male at birth who is over the age of 64 can have it. /s",
+        "title": "/h1 **{Abdominal aortic aneurysm (AAA) screening}** /h1",
+        "dis1": "/n {Abdominal aortic aneurysm (AAA) screening is a test to check if there's a swelling in your aorta, which is the main blood vessel that carries blood from the heart to the tummy (abdomen).} /n",
+        "dist2": "/s {AAA screening is offered to all men over the age of 64. Anyone assigned male at birth who is over the age of 64 can have it.} /s",
         "img": ""
       },
       {
-        "title": "/h1  ** Why abdominal aortic aneurysm (AAA) screening is done ** /h1",
-        "dis1": "/n  Abdominal aortic aneurysm (AAA) screening is done to check if there are any swellings (aneurysms) in the main blood vessel in your tummy (abdomen), called the aorta. The aorta runs from your heart down to your abdomen. /n",
-        "dist2": "/s/s",
+        "title": "/h1 **{Why abdominal aortic aneurysm (AAA) screening is done}** /h1",
+        "dis1": "/n {Abdominal aortic aneurysm (AAA) screening is done to check if there are any swellings (aneurysms) in the main blood vessel in your tummy (abdomen), called the aorta. The aorta runs from your heart down to your abdomen.} /n",
+        "dist2": "/s { } /s",
         "img": "https://assets.nhs.uk/nhsuk-cms/images/Abdominal_Aortic_Aneurysm_3_copy.width-1534.jpg"
       }
     ],
@@ -28,7 +28,7 @@
   },
   {
     "name": "Ibuprofen",
-    "describe": "/Reduces inflammation and pain./ *Used for headaches and muscle pain.* **Caution:** Stomach irritation possible. */Consult a doctor if needed./",
+    "describe": "/{Reduces inflammation and pain.}/ *{Used for headaches and muscle pain.}* **{Caution:}** Stomach irritation possible. */{Consult a doctor if needed.}*/",
     "images": "https://example.com/images/ibuprofen.jpg",
     "videos": "https://example.com/videos/ibuprofen.mp4",
     "table": {
